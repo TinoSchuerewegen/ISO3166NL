@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>ISO3166NL</AssemblyName>
+    <PackageId>ISO3166NL Landencodes</PackageId>
+    <Description>De ISO 3166-1-norm is het eerste deel van ISO 3166 standaard die werd gepubliceerd door de "International Organization for Standardization (ISO)" en definieert codes voor de landennamen, afhankelijk gebieden, en speciale gebieden van geografisch belang.
+Dit pakket 
+This package voorziet een lijst van landen (incl. de officiële Nederlandse naam) met hun unieke ISO 3166 met unieke tweeletterige landcodes, drieletterige landcodes en driecijferige landcodes. De lijst is toegankelijk voor elke .NET taal via het statische veld ISO3166.Country.List.
+Laatste controle met de officiële ISO 3166 (https://www.iso.org/obp/ui/#search) op 18 oktober 2021.</Description>
+    <Company></Company>
+    <Authors>Tino Schuerewegen</Authors>
+  </PropertyGroup>
+
+</Project>
