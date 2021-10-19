@@ -3,7 +3,7 @@ ISO 3166-1 Landenlijst
 
 ## Installeren via NuGet
 
-Als je ISO3166NL wil gebruiken in je project dan kan je [het direct installeren via NuGet](https://www.nuget.org/packages/)
+Als je ISO3166NL wil gebruiken in je project dan kan je [het direct installeren via NuGet](https://www.nuget.org/packages/ISO3166NL/)
 
 Om ISO3166NL te installeren, voer je het volgende commando uit in de "Package Manager Console"
 
