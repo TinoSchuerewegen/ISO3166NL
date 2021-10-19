@@ -14,18 +14,18 @@ PM> Install-Package ISO3166NL
 ## Gebruik
 
 ```
-Country[] countries = ISO3166NL.Country.List;
+Land[] landen = ISO3166NL.Land.List;
 ```
 
 ## Country Model
 
 ```
-public string Name { get; private set; }
-public string TwoLetterCode { get; private set; }
-public string ThreeLetterCode { get; private set; }
-public string NumericCode { get; private set; }
+public string Naam { get; private set; }
+public string TweeLetterCode { get; private set; }
+public string DrieLetterCode { get; private set; }
+public string NumeriekeCode { get; private set; }
 
-public static readonly Country[] List = new[] {...};
+public static readonly Land[] List = new[] {...};
 ```
 
 Laatste controle met de officiële ISO 3166 (https://www.iso.org/obp/ui/#search) op 18 oktober 2021.
