@@ -14,7 +14,6 @@ Laatste controle met de officiële ISO 3166 (https://www.iso.org/obp/ui/#search)
 	<AssemblyDescription>Namen van landen voorzien van hun ISO code</AssemblyDescription>
 	<Version>1.0.0</Version>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-	<AssemblyOriginatorKeyFile>ISO3166NL.snk</AssemblyOriginatorKeyFile>
 	<RepositoryUrl>https://github.com/TinoSchuerewegen/ISO3166NL</RepositoryUrl>
   </PropertyGroup>
 </Project>
