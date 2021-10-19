@@ -17,7 +17,7 @@ PM> Install-Package ISO3166NL
 Land[] landen = ISO3166NL.Land.List;
 ```
 
-## Country Model
+## Land Model
 
 ```
 public string Naam { get; private set; }
