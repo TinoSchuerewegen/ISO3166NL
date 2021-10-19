@@ -6,7 +6,7 @@
 	<Authors>Tino Schuerewegen</Authors>
     <Description>De ISO 3166-1-norm is het eerste deel van ISO 3166 standaard die werd gepubliceerd door de "International Organization for Standardization (ISO)" en definieert codes voor de landennamen, afhankelijk gebieden, en speciale gebieden van geografisch belang.
 Dit pakket voorziet een lijst van landen (incl. de officiële Nederlandse naam) met hun unieke ISO 3166 tweeletterige landcodes, drieletterige landcodes en driecijferige landcodes. De lijst is toegankelijk voor elke .NET taal via het statische veld ISO3166.Land.List.
-Laatste controle met de officiële ISO 3166 (https://www.iso.org/obp/ui/#search) op 18 oktober 2021.</Description>
+Laatste controle met de officiële ISO 3166 (https://www.iso.org/obp/ui/#search) op 19 oktober 2021.</Description>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<PackageProjectUrl>https://github.com/TinoSchuerewegen/ISO3166NL</PackageProjectUrl>
 	<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
