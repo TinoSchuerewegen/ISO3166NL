@@ -28,6 +28,6 @@ public string NumeriekeCode { get; private set; }
 public static readonly Land[] List = new[] {...};
 ```
 
-Laatste controle met de officiële ISO 3166 (https://www.iso.org/obp/ui/#search) op 18 oktober 2021.
+Laatste controle met de officiële ISO 3166 (https://www.iso.org/obp/ui/#search) op 19 oktober 2021.
 
 License: MIT
