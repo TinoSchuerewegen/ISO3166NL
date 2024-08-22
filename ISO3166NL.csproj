@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <TargetFrameworks>net5.0;netstandard1.0</TargetFrameworks>
+    <TargetFrameworks>net5.0;net6.0;net7.0;net8.0</TargetFrameworks>
     <AssemblyTitle>ISO 3166-1 Landencodes</AssemblyTitle>
 	<Title>ISO 3166-1 Landenlijst</Title>
 	<Authors>Tino Schuerewegen</Authors>
@@ -12,7 +12,7 @@ Laatste controle met de officiële ISO 3166 (https://www.iso.org/obp/ui/#search)
 	<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 	<PackageTags>iso3166 landen</PackageTags>
 	<AssemblyDescription>Namen van landen voorzien van hun ISO code</AssemblyDescription>
-	<Version>1.0.0</Version>
+	<Version>1.0.1</Version>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	<RepositoryUrl>https://github.com/TinoSchuerewegen/ISO3166NL</RepositoryUrl>
   </PropertyGroup>
