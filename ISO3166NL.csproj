@@ -2,6 +2,7 @@
   <PropertyGroup>
     <TargetFrameworks>net5.0;net6.0;net7.0;net8.0</TargetFrameworks>
     <AssemblyTitle>ISO 3166-1 Landencodes</AssemblyTitle>
+		<LangVersion>12.0</LangVersion>
 	<Title>ISO 3166-1 Landenlijst</Title>
 	<Authors>Tino Schuerewegen</Authors>
     <Description>De ISO 3166-1-norm is het eerste deel van ISO 3166 standaard die werd gepubliceerd door de "International Organization for Standardization (ISO)" en definieert codes voor de landennamen, afhankelijk gebieden, en speciale gebieden van geografisch belang.
